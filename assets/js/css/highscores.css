@@ -1,0 +1,20 @@
+h1{
+    padding: 40px;
+margin-bottom: 40px;
+box-shadow: 10px 5px 5px purple;
+background-color: green;
+}
+
+.score-info{
+    text-decoration: none;
+    color: green;
+    border-bottom: solid purple 6px;
+}
+ .listed-score{
+list-style-type: none;
+ }
+ div.score-info {
+     width: 50%;
+     margin-left: 25%;
+     text-decoration: none;
+ }
